@@ -18,6 +18,8 @@ or directly open with any browser.
 
 5.The program's output will be displayed in browser.
 
+6.To see how the 'index.html' file work go and check the 'output.png' file where we get the output of index.html file.
+
 
 
 
